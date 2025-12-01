@@ -1,0 +1,7 @@
+{
+  "name": "CalorieSnap",
+  "description": "Instantly track your nutrition by snapping a photo of your food. Powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
